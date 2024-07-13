@@ -327,17 +327,10 @@ footer a:hover {
 ul.slideshow {
   list-style: none;
   width: 650px;
-  height: 450px;
+  height: 300px;
   overflow: hidden;
   position: relative;
   margin: 0;
-}
-
-.slideshow img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain; /* or contain, depending on the desired behavior */
-  object-position: center;
 }
 
 ul.slideshow li {
