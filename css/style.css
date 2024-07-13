@@ -38,7 +38,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
   font: bold 150% 'News Cycle', Arial, sans-serif;
   color: #3066BE; /* True Blue */
-  text-shadow: 1px 1px #202501;
+  text-shadow: 1px 1px #021f20;
   margin: 10px 0 10px 0;
 }
 
@@ -180,7 +180,7 @@ ul#nav li.current a, ul#nav li:hover a {
   margin-top: 20px;
   padding-left: 20px;
   color: #000;
-  background: #80DED9; /* Tiffany Blue */
+  background: #dbf6f5; /* Tiffany Blue */
 }
 
 .sidebar {
